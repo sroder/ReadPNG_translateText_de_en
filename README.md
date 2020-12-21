@@ -1,0 +1,1 @@
+# ReadPNG_translateText_de_en
